@@ -1,3 +1,17 @@
-body {
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.wip {
     font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+.small {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 12px;
 }
