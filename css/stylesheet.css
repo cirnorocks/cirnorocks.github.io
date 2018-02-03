@@ -1,19 +1,23 @@
 footer {
-    position: fixed;
+    position: absolute;
+    left: 0;
+    right: 0;
     bottom: 0px;
     margin-top: 30px;
     width: 100%;
+    background-color: aliceblue;
 }
 
 .wip {
     font-family: 'Roboto', sans-serif;
-    font-size: 2.5vh;
+    font-size: 3em;
     text-align: center;
-    max-width: 100%;
+    margin: auto;
+    
 }
 
 .small {
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-size: 12px;
+    font-size: 2em;
 }
