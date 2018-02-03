@@ -16,6 +16,7 @@ footer {
 
 footer {
     background: linear-gradient(-45deg, #ffffff 32px, transparent 0), linear-gradient(45deg, #ffffff 32px, transparent 0);
+    border: 0;
     background-position: left-bottom;
     background-repeat: repeat-x;
     background-size: 64px 64px;
