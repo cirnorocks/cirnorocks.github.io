@@ -39,6 +39,13 @@ footer {
 
 }
 
+.nav {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 8pt;
+    font-weight: 1000;
+}
+
 .wip {
     position: relative;
 
@@ -62,14 +69,14 @@ footer {
 }
 
 .bio {
-    
+
     margin-left: 30px;
     margin-right: 30px;
-    
+
 }
 
 .bold {
-    text-decoration: 
+    text-decoration:
 }
 
 a {
