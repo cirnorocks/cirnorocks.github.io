@@ -1,5 +1,5 @@
 body {
-    width="device-width";
+    width:"device-width";
     background-color: aliceblue;
 }
 
@@ -76,7 +76,7 @@ footer {
 }
 
 .bold {
-    text-decoration:
+    text-decoration: bold;
 }
 
 a {
